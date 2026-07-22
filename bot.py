@@ -84,4 +84,4 @@ async def check(ctx):
     else:
         await ctx.send("You didn't send any files")
     
-bot.run("MTQ2ODc0Mjc5MzA3NjgwNTgwOA.GoFBSu.EFa58PA7DOsyomrcWbTjxPbTYHV7Dfko09jX6E")
+bot.run("token")
